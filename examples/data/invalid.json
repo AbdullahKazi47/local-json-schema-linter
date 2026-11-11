@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "age": "thirty",
+  "tags": ["a", "a", 3],
+  "address": {
+    "zip": "ABC"
+  },
+  "nickname": "x"
+}

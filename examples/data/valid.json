@@ -1,0 +1,7 @@
+{
+  "name": "Sample User",
+  "age": 30,
+  "email": "user@example.com",
+  "tags": ["admin", "editor"],
+  "address": {"city": "Springfield", "zip": "12345"}
+}
